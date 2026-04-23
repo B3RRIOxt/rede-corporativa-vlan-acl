@@ -13,13 +13,10 @@ Este projeto simula uma rede corporativa segmentada utilizando VLANs, com comuni
 
 ## 🏗️ Topologia
 
-![Topologia](topologia.png)(topologia2.png)(topologia3.png)(topologia4.png)
-
-
-
+![Topologia](topologia.png)
 
 ## ⚙️ Configuração
-
+![Teste](teste.png)
 ### VLANs:
 
 * VLAN 10 → Administrativo
