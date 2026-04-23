@@ -13,7 +13,10 @@ Este projeto simula uma rede corporativa segmentada utilizando VLANs, com comuni
 
 ## 🏗️ Topologia
 
-![Topologia](topologia.png)(topologia2.png).(topologia3.png).(topologia4.png).
+![Topologia](topologia.png)(topologia2.png)(topologia3.png)(topologia4.png)
+
+
+
 
 ## ⚙️ Configuração
 
