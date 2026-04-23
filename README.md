@@ -16,7 +16,8 @@ Este projeto simula uma rede corporativa segmentada utilizando VLANs, com comuni
 ![Topologia](topologia.png)
 
 ## ⚙️ Configuração
-![Teste](teste.png)
+![config.png](config.png)
+
 ### VLANs:
 
 * VLAN 10 → Administrativo
@@ -29,7 +30,7 @@ Este projeto simula uma rede corporativa segmentada utilizando VLANs, com comuni
 * Encapsulation dot1Q
 
 ## 🔌 Testes Realizados
-
+![Teste](teste.png)
 * Comunicação entre VLANs (ping) ✅
 * Isolamento de rede funcionando ✅
 * Trunk configurado corretamente ✅
@@ -39,7 +40,7 @@ Este projeto simula uma rede corporativa segmentada utilizando VLANs, com comuni
 * laboratorio_vlan_segurança.pkt
 
 ## 🚀 Resultado
-
+![resultado.png](resultado.png)
 Rede segmentada funcional, com separação de setores e comunicação controlada entre VLANs.
 
 ## 👨‍💻 Autor
